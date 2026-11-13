@@ -1,0 +1,4 @@
+# EIDE 编译输出
+build/
+.eide/
+.pack/

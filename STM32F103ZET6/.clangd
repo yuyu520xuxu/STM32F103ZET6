@@ -1,0 +1,17 @@
+CompileFlags:
+  Add:
+    - -isystemC:\Users\余于\.eide\tools\gcc_arm\arm-none-eabi\include\c++\15.2.1
+    - -isystemC:\Users\余于\.eide\tools\gcc_arm\arm-none-eabi\include\c++\15.2.1\arm-none-eabi\thumb\v7-m\nofp
+    - -isystemC:\Users\余于\.eide\tools\gcc_arm\arm-none-eabi\include\c++\15.2.1\backward
+    - -isystemC:\Users\余于\.eide\tools\gcc_arm\lib\gcc\arm-none-eabi\15.2.1\include
+    - -isystemC:\Users\余于\.eide\tools\gcc_arm\lib\gcc\arm-none-eabi\15.2.1\include-fixed
+    - -isystemC:\Users\余于\.eide\tools\gcc_arm\arm-none-eabi\include
+    - -isystemE:\GCC\gcc_arm\arm-none-eabi\include\c++\15.2.1
+    - -isystemE:\GCC\gcc_arm\arm-none-eabi\include\c++\15.2.1\arm-none-eabi\thumb\v7-m\nofp
+    - -isystemE:\GCC\gcc_arm\arm-none-eabi\include\c++\15.2.1\backward
+    - -isystemE:\GCC\gcc_arm\lib\gcc\arm-none-eabi\15.2.1\include
+    - -isystemE:\GCC\gcc_arm\lib\gcc\arm-none-eabi\15.2.1\include-fixed
+    - -isystemE:\GCC\gcc_arm\arm-none-eabi\include
+  Remove: []
+  CompilationDatabase: ./build/Debug
+  Compiler: E:\GCC\gcc_arm\bin\arm-none-eabi-gcc.exe
